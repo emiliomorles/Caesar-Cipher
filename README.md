@@ -8,12 +8,12 @@ Explore the art of cryptography and keep your messages safe from prying eyes.
 Enhance your coding skills and embrace the intrigue of secret codes. 
 Dive into the world of encryption with this user-friendly and engaging app!
 
-Developer: @Emilio_Morles
+## Developer: https://github.com/emiliomorles
 
-Year: 2023
+## Year: 2023
 
-🔸 I learned about:
+✅ I learned:
 
-    - Functions with Inputs ✔️
-    - Encryption ✔️
-    - Decryption ✔️
+    🟢 Functions with Inputs ✔️
+    🟢 Encryption ✔️
+    🟢 Decryption ✔️
